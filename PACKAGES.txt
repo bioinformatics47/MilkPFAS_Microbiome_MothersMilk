@@ -1,0 +1,77 @@
+ape                  5.8-1
+broom                1.0.13
+Cairo                1.7-0
+car                  3.1-5
+circlize             0.4.18
+ComplexHeatmap       2.26.1
+compositions         2.0-9
+corrplot             0.95
+cowplot              1.2.0
+data.table           1.18.4
+dplyr                1.2.1
+egg                  0.4.5
+emmeans              2.0.4
+flextable            0.10.0
+ggalluvial           0.12.6
+ggbeeswarm           0.7.3
+ggcorrplot           0.3.0
+ggnewscale           0.5.2
+ggplot2              4.0.3
+ggpubr               1.0.0
+ggrepel              0.9.8
+ggtext               0.1.2
+ggtree               4.0.5
+ggtreeExtra          1.20.1
+grid                 4.5.2
+gridExtra            2.3.1
+here                 1.0.2
+kableExtra           1.4.1
+knitr                1.51
+lme4                 2.0-6
+lmerTest             3.2-1
+lubridate            1.9.5
+MASS                 7.3-66
+naniar               1.1.0
+officer              0.7.6
+openxlsx             4.2.8.1
+parallel             4.5.2
+patchwork            1.3.2
+pheatmap             1.0.13
+plyr                 1.8.9
+pscl                 1.5.9
+purrr                1.2.2
+qgcomp               2.18.10
+RColorBrewer         1.1-3
+readr                2.2.0
+readxl               1.5.0
+reshape              0.8.10
+reshape2             1.4.5
+scales               1.4.0
+stringr              1.6.0
+tableone             0.13.2
+tibble               3.3.1
+tidyr                1.3.2
+tidyverse            2.0.0
+vegan                2.7-5
+writexl              2.0.0
+zCompositions        1.6.2
+
+NOTE ON script 9 ("Data cleaning_metabolite.R", not executed in this
+package -- see README.txt): it additionally requires the Bioconductor/
+GitHub-distributed package "xMSanalyzer" for untargeted LC-MS peak-table
+preprocessing. This is only needed if reproducing script 9 against the
+real deposited metabolomics data.
+
+All package versions above are those the pipeline was verified against.
+Install with, e.g.:
+  install.packages(c("ape","broom","Cairo","car","circlize","compositions",
+    "corrplot","cowplot","data.table","dplyr","egg","emmeans","flextable",
+    "ggalluvial","ggbeeswarm","ggcorrplot","ggnewscale","ggplot2","ggpubr",
+    "ggrepel","ggtext","gridExtra","here","kableExtra","knitr","lme4",
+    "lmerTest","lubridate","MASS","naniar","officer","openxlsx","patchwork",
+    "pheatmap","plyr","pscl","purrr","qgcomp","RColorBrewer","readr",
+    "readxl","reshape","reshape2","scales","stringr","tableone","tibble",
+    "tidyr","tidyverse","vegan","writexl","zCompositions"))
+  # Bioconductor packages:
+  if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+  BiocManager::install(c("ComplexHeatmap","ggtree","ggtreeExtra"))

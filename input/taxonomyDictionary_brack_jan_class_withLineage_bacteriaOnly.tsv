@@ -1,0 +1,144 @@
+name	taxonomy_id	taxonomic_lineage
+Bacilli	91061	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Clostridia	186801	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Negativicutes	909932	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Erysipelotrichia	526524	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Tissierellia	1737404	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Actinomycetes	1760	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Coriobacteriia	84998	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Thermoleophilia	1497346	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Acidimicrobiia	84992	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Rubrobacteria	84995	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Nitriliruptoria	908620	d__Bacteria;p__Actinomycetota;c__;o__;f__;g__
+Cyanophyceae	3028117	d__Bacteria;p__Cyanobacteriota;c__;o__;f__;g__
+Mollicutes	31969	d__Bacteria;p__Mycoplasmatota;c__;o__;f__;g__
+Deinococci	188787	d__Bacteria;p__Deinococcota;c__;o__;f__;g__
+Dehalococcoidia	301297	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Anaerolineae	292625	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Gammaproteobacteria	1236	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+Alphaproteobacteria	28211	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+Betaproteobacteria	28216	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+Acidithiobacillia	1807140	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+Bacteroidia	200643	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Flavobacteriia	117743	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Cytophagia	768503	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Sphingobacteriia	117747	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Chitinophagia	1853228	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Saprospiria	1937959	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__
+Chlorobiia	191410	d__Bacteria;p__Chlorobiota;c__;o__;f__;g__
+Ignavibacteria	795747	d__Bacteria;p__Ignavibacteriota;c__;o__;f__;g__
+Gemmatimonadetes	219685	d__Bacteria;p__Gemmatimonadota;c__;o__;f__;g__
+Verrucomicrobiae	203494	d__Bacteria;p__Verrucomicrobiota;c__;o__;f__;g__
+Opitutae	414999	d__Bacteria;p__Verrucomicrobiota;c__;o__;f__;g__
+Planctomycetia	203683	d__Bacteria;p__Planctomycetota;c__;o__;f__;g__
+Phycisphaerae	666505	d__Bacteria;p__Planctomycetota;c__;o__;f__;g__
+Chlamydiia	204429	d__Bacteria;p__Chlamydiota;c__;o__;f__;g__
+Fusobacteriia	203490	d__Bacteria;p__Fusobacteriota;c__;o__;f__;g__
+Epsilonproteobacteria	3031852	d__Bacteria;p__Campylobacterota;c__;o__;f__;g__
+Myxococcia	32015	d__Bacteria;p__Myxococcota;c__;o__;f__;g__
+Desulfovibrionia	3031449	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Desulfobacteria	3024418	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Desulfuromonadia	3031651	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Desulfobulbia	3031451	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Spirochaetia	203692	d__Bacteria;p__Spirochaetota;c__;o__;f__;g__
+Terriglobia	204432	d__Bacteria;p__Acidobacteriota;c__;o__;f__;g__
+Vicinamibacteria	1813735	d__Bacteria;p__Acidobacteriota;c__;o__;f__;g__
+Bacteriovoracia	3031419	d__Bacteria;p__Bdellovibrionota;c__;o__;f__;g__
+Bdellovibrionia	3031418	d__Bacteria;p__Bdellovibrionota;c__;o__;f__;g__
+Thermotogae	188708	d__Bacteria;p__Thermotogota;c__;o__;f__;g__
+Synergistia	649775	d__Bacteria;p__Synergistota;c__;o__;f__;g__
+Aquificae	187857	d__Bacteria;p__Aquificota;c__;o__;f__;g__
+Deferribacteres	68337	d__Bacteria;p__Deferribacterota;c__;o__;f__;g__
+
+
+
+
+
+
+
+
+
+
+
+Candidatus Uabimicrobiia	2897345	d__Bacteria;p__Planctomycetota;c__;o__;f__;g__
+Thermodesulfobacteria	67799	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Nitrospiria	203693	d__Bacteria;p__Nitrospirota;c__;o__;f__;g__
+Thermodesulfovibrionia	2811502	d__Bacteria;p__Nitrospirota;c__;o__;f__;g__
+
+Tepidiformia	2682225	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Chloroflexia	32061	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Tichowtungiia	2907184	d__Bacteria;p__Kiritimatiellota;c__;o__;f__;g__
+
+Limnochordia	1676648	d__Bacteria;p__Bacillota;c__;o__;f__;g__
+Candidatus Izimaplasma	1912503	d__Bacteria;p__Mycoplasmatota;c__;o__;f__;g__
+Candidatus Thermofonsia	2364196	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Caldilineae	475962	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Ardenticatenia	1382928	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Thermomicrobia	189775	d__Bacteria;p__Thermomicrobiota;c__;o__;f__;g__
+Chthonomonadetes	1077257	d__Bacteria;p__Armatimonadota;c__;o__;f__;g__
+Balneolia	1853221	d__Bacteria;p__Balneolota;c__;o__;f__;g__
+Fibrobacteria	204430	d__Bacteria;p__Fibrobacterota;c__;o__;f__;g__
+Candidatus Brocadiia	2517206	d__Bacteria;p__Planctomycetota;c__;o__;f__;g__
+Lentisphaeria	1313211	d__Bacteria;p__Lentisphaerota;c__;o__;f__;g__
+Kiritimatiellia	1921781	d__Bacteria;p__Kiritimatiellota;c__;o__;f__;g__
+Desulfarculia	3031646	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Syntrophia	3031648	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Syntrophobacteria	3024408	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Candidatus Saccharimonadia	2093818	d__Bacteria;p__Candidatus Saccharibacteria;c__;o__;f__;g__
+Candidatus Babeliae	2497643	d__Bacteria;p__;c__;o__;f__;g__
+Blastocatellia	1562566	d__Bacteria;p__Acidobacteriota;c__;o__;f__;g__
+Holophagae	533205	d__Bacteria;p__Acidobacteriota;c__;o__;f__;g__
+Oligoflexia	1553900	d__Bacteria;p__Bdellovibrionota;c__;o__;f__;g__
+Dictyoglomia	203486	d__Bacteria;p__Dictyoglomota;c__;o__;f__;g__
+Atribacteria	2847774	d__Bacteria;p__Atribacterota;c__;o__;f__;g__
+Endomicrobiia	447830	d__Bacteria;p__Elusimicrobiota;c__;o__;f__;g__
+Elusimicrobia	641853	d__Bacteria;p__Elusimicrobiota;c__;o__;f__;g__
+Chrysiogenetes	118001	d__Bacteria;p__Chrysiogenota;c__;o__;f__;g__
+Deltaproteobacteria	28221	d__Bacteria;p__;c__;o__;f__;g__
+Calditrichia	1962850	d__Bacteria;p__Calditrichota;c__;o__;f__;g__
+Coprothermobacteria	2138243	d__Bacteria;p__Coprothermobacterota;c__;o__;f__;g__
+
+
+
+
+
+
+
+Fimbriimonadia	1663419	d__Bacteria;p__Armatimonadota;c__;o__;f__;g__
+Zetaproteobacteria	580370	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+Desulfomonilia	3031650	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Desulfobaccia	3031647	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+Methylacidiphilae	1955630	d__Bacteria;p__Verrucomicrobiota;c__;o__;f__;g__
+Ktedonobacteria	388447	d__Bacteria;p__Chloroflexota;c__;o__;f__;g__
+Desulfurellia	3031853	d__Bacteria;p__Campylobacterota;c__;o__;f__;g__
+Candidatus Desulfofervidia	3031450	d__Bacteria;p__Thermodesulfobacteriota;c__;o__;f__;g__
+
+
+
+
+Hydrogenophilia	2008785	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__
+
+Caldisericia	693071	d__Bacteria;p__Caldisericota;c__;o__;f__;g__
+
+
+
+
+
+Spartobacteria	134549	d__Bacteria;p__Verrucomicrobiota;c__;o__;f__;g__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

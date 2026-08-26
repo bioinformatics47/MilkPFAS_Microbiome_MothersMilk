@@ -1,0 +1,6 @@
+"PFAS","R2","F_statistic","P","Scenario","Type","Significant"
+"PFBS",0.0228,0.8848,0.8199,"1m PFAS + 1m Microbiome","Single-exposure (PERMANOVA)","No"
+"PFHxS",0.0276,1.0781,0.2539,"1m PFAS + 1m Microbiome","Single-exposure (PERMANOVA)","No"
+"PFNA",0.0256,1.0001,0.4768,"1m PFAS + 1m Microbiome","Single-exposure (PERMANOVA)","No"
+"PFOA",0.0287,1.1233,0.1784,"1m PFAS + 1m Microbiome","Single-exposure (PERMANOVA)","No"
+"PFOS",0.0239,0.9319,0.6901,"1m PFAS + 1m Microbiome","Single-exposure (PERMANOVA)","No"
